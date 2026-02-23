@@ -15,13 +15,12 @@ lilás: #5f2c82
 body, html {
     background-image: linear-gradient(to top, #49a09d, #5f2c82);
     height: 100vh;
-    width: 100vw;
+    
 }
 
 main {
     position: relative;
     height: 100vh;
-    width: 100vw;
 }
 
 section#login {
