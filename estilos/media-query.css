@@ -41,6 +41,7 @@ Grandes telas: acima de 1200px
         float: right;
         width:50%;
         height: 100%;
+        background-position: bottom center;
     }
 
     div#formulario {

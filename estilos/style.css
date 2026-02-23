@@ -45,7 +45,7 @@ div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-luis-ruiz-1774931.jpg) no-repeat;
     background-size: cover;
-    background-position: left center;
+    background-position: bottom center;
     height: 200px;
 }
 
